@@ -7,3 +7,8 @@
 > - [Lane的博客](http://lane-home.top)
 > - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
+> ### 自用 课程资源整理
+> - [OOP-咸鱼暄]（https://xuan-insr.github.io/cpp/cpp_restart/）
+> - [DB-NoughtQ](https://note.noughtq.top/system/db/)
+> - [CA-NoughtQ](https://note.noughtq.top/system/ca/)
+> - [CS专业课-资源专楼]（https://www.cc98.org/topic/5939104）
