@@ -10,5 +10,5 @@
 > ### 自用 课程资源整理
 > - [OOP-咸鱼暄](https://xuan-insr.github.io/cpp/cpp_restart/)
 > - [DB-NoughtQ](https://note.noughtq.top/system/db/)
-> - [CA-NoughtQ](https://note.noughtq.top/system/ca/)
+> - [CA-HobbitQia](https://note.hobbitqia.cc/CA/)
 > - [CS专业课-资源专楼](https://www.cc98.org/topic/5939104)
