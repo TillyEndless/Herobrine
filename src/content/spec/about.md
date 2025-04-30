@@ -8,6 +8,7 @@
 > - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
 > ### 自用 课程资源整理
+> - [OOP-Jerryhzy's_Blog](https://blog.jerryhzy.top/oop-lec1-using-object/)
 > - [OOP-咸鱼暄](https://xuan-insr.github.io/cpp/cpp_restart/)
 > - [DB-NoughtQ](https://note.noughtq.top/system/db/)
 > - [CA-HobbitQia](https://note.hobbitqia.cc/CA/)
