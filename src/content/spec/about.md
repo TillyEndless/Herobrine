@@ -11,5 +11,6 @@
 > - [OOP-Jerryhzy's_Blog](https://blog.jerryhzy.top/oop-lec1-using-object/)
 > - [OOP-咸鱼暄](https://xuan-insr.github.io/cpp/cpp_restart/)
 > - [DB-NoughtQ](https://note.noughtq.top/system/db/)
-> - [CA-HobbitQia](https://hobbitqia.github.io/notebook/CA/)
+> - [CA-HobbitQia](https://note.hobbitqia.cc/DB/)
+> - [CA-HobbitQia](https://note.hobbitqia.cc/CA/)
 > - [CS专业课-资源专楼](https://www.cc98.org/topic/5939104)
