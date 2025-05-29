@@ -10,8 +10,8 @@
 > ### 自用 课程资源整理
 > - [OOP-Jerryhzy's_Blog](https://blog.jerryhzy.top/oop-lec1-using-object/)
 > - [OOP-咸鱼暄](https://xuan-insr.github.io/cpp/cpp_restart/)
-> - [CA-HobbitQia](https://note.hobbitqia.cc/DB/)
+> - [DB-HobbitQia](https://note.hobbitqia.cc/DB/)
 > - [DB-NoughtQ](https://note.noughtq.top/system/db/)
 > - [CA-HobbitQia](https://note.hobbitqia.cc/CA/)
-> - [DB-NoughtQ](https://note.noughtq.top/system/ca/)
+> - [CA-NoughtQ](https://note.noughtq.top/system/ca/)
 > - [CS专业课-资源专楼](https://www.cc98.org/topic/5939104)
