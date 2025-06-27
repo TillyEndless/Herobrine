@@ -9,7 +9,7 @@ category: CS心得
 draft: false
 lang: ''
 ---
-鸣谢：感谢 [Xecades](https://github.com/xecades)老师对本方法的原创性贡献！本文仅仅是转述他的方法。
+鸣谢：感谢 [@Xecades](https://github.com/xecades)老师对本方法的原创性贡献！本文仅仅是转述他的方法。
 
 ---
 
