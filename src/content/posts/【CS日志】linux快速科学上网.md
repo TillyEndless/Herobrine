@@ -30,6 +30,7 @@ root@XX.XXX.XXX.XXX's password:
 (base)
 ```
 然后ssh登陆服务器。
+
 2. 设置代理变量
 原始做法是
 ```bash
