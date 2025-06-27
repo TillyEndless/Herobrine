@@ -13,12 +13,13 @@ lang: ''
 
 ---
 
-环境：
+### 环境：
 - macbook m3 pro
 - 远程服务器(我自己是ubuntu系统docker)
 
-步骤：
+### 步骤：
 1. 反向映射
+
 假设你的macbook代理端口（HTTP）号是7890（可以打开ClashX设置确认）
 
 远程服务器用户ip：`root@XX.XXX.XXX.XXX`。
