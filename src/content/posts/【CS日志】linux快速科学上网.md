@@ -50,6 +50,8 @@ enableproxy
 ```
 即可管理。
 
+如果用的`tmux`新窗口，需要打开窗口使用，在外面配置是没用的。
+
 3. 跑通
 ```bash
 (base) root@User:~# enableproxy
@@ -62,6 +64,6 @@ The document has moved
 </BODY></HTML>
 (base) root@User:~#
 ```
-出现`302 Moced`说明转移成功，配置完成。
+出现`302 Moved`说明转移成功，配置完成。
 
 PS：若出现`bind [127.0.0.1]:2017: Address already in use`说明端口被占用，比如我原来是`2017`，后面就换了`2020`。
