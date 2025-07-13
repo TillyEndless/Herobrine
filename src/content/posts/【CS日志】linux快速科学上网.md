@@ -74,6 +74,13 @@ The document has moved
 PS：
 1. 若出现`bind [127.0.0.1]:2017: Address already in use`说明端口被占用，比如我原来是`2017`，后面就换了`2020`。
 2. 每次登录服务器都记得完整做一遍上面的步骤，包括最开始的本机mac转发，不然在服务器上`enableproxy`会显示没有这个bash命令。
+3. 有的服务器是用falcon登录：
+```bash
+ssh -NfR 7890:127.0.0.1:7890 falcon
+
+ssh -L 2021:localhost:2017 falcon
+# 然后记得改.bachrc配置文件
+```
 
 ---
 
