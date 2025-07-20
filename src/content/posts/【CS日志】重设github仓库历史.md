@@ -41,11 +41,7 @@ git fetch origin main
 
 # 第二步：將本地分支強制重置成遠端的樣子
 git reset --hard origin/main
-```
-然后**随便修改点仓库的代码**，再进行
-```bash
+
 git pull origin main
 ```
-就能成功了。
 
-否则只会显示`Already up to date.`，直到下一次修改并提交。
