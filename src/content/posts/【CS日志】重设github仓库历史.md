@@ -45,3 +45,22 @@ git reset --hard origin/main
 git pull origin main
 ```
 
+## 推送失败
+首先检查是HTTP协议还是ssh协议。HTTP很容易因为服务器网络原因403连不上，而且要令牌登录，比较麻烦。
+
+切换为ssh：（以我的仓库为例）
+```bash
+git remote set-url origin git@github.com:TillyEndless/coconut_gating.git
+
+ssh -T git@github.com
+```
+会出现
+```bash
+(base) root@XXX:~/coconut_gating# ssh -T git@github.com
+Hi TillyEndless! You've successfully authenticated, but GitHub does not provide shell access.
+```
+就是登录成功了，然后
+```bash
+git push origin main
+```
+（记得检查下分支）
