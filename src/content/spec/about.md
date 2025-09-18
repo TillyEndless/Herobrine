@@ -8,7 +8,9 @@
 > - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 
 > ### 自用 课程资源整理
-> #### 大三上
+> #### 大三上专业课
+> - []
+> #### 短学期
 > - [数据要素市场（课程综合实践 II）-NoughtQ](https://note.noughtq.top/misc/dem/)
 > #### 大二下
 > - [OOP-Jerryhzy's_Blog](https://blog.jerryhzy.top/oop-lec1-using-object/)

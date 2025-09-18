@@ -5,7 +5,7 @@ description: ''
 image: ''
 tags:
   - journal
-category: CS心得
+category: CS日志
 draft: false
 lang: ''
 ---

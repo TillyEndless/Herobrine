@@ -1,11 +1,11 @@
 ---
-title: CS日志
+title: 【CS日志】杂·早期blog
 published: 2024-10-29T00:00:00.000Z
 description: ''
 image: ''
 tags:
   - journal
-category: CS心得
+category: CS日志
 draft: false
 lang: ''
 ---
