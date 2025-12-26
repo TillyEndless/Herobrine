@@ -7,7 +7,7 @@ tags:
   - journal
 category: CS日志
 draft: false
-lang: '‘
+lang: ''
 ---
 
 [看这篇博客](https://richard-docs.netlify.app/blogs/b-006)
